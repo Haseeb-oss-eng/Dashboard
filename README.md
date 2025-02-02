@@ -2,7 +2,7 @@
 
 *--Dataset : https://drive.google.com/file/d/1hg0fLlBPotgKZC8pQ0dEF0XkCWAQ-SCe/view?usp=drive_link*
 
-*--Website : https://farmersdashboard.streamlit.app/*
+*--Website : https://f4fassignment.streamlit.app/*
 In this website there would be *Enter Google Drive URL* input the Dataset link into bar 
 
 *--Repo : https://github.com/Haseeb-oss-eng/f4f*
